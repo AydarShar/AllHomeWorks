@@ -1,0 +1,8 @@
+api/integrationSubsystems/performance/models/User.class
+patterns/PerformancePage$DropDownMenuElements.class
+api/integrationSubsystems/performance/models/Cars.class
+api/connection/RestAssuredConnection.class
+patterns/PerformancePage.class
+api/integrationSubsystems/performance/PerformanceAPI.class
+api/connection/HttpClientConnection.class
+api/connection/Connection.class
